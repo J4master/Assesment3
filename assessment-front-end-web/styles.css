@@ -1,0 +1,64 @@
+body {
+  background: #ddd;
+  margin: 1rem;
+  padding: 1rem;
+  max-width: 500px;
+  margin: 2rem auto;
+  font-family: "Open Sans", sans-serif;
+}
+
+nav {
+	border-bottom: 2px solid orange;
+}
+
+ol {
+	padding-left: 0;
+}
+
+.crumb {
+	margin-right: 2em;
+	display: inline;
+}
+
+a {
+	color: orange;
+}
+
+a:visited {
+	color: crimson;
+}
+
+
+input {
+	display: block;
+}
+
+img {
+	max-width: 300px;
+}
+
+/* #favBtn {
+	background-color: yellow;
+} */
+
+.favorite-color {
+	background-color: yellow;
+	border-radius: 50%;
+	width: 200px;
+	height: 200px;
+	/* text-align: center; */
+}
+
+.favorite-place {
+	background-color: yellow;
+	border-radius: 50%;
+	width: 59px;
+	height: 53px;
+}
+
+.favorite-ritual {
+	background-color: yellow;
+	border-radius: 50%;
+	width: 700px;
+	height: 700px;
+}
